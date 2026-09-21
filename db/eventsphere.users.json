@@ -1,0 +1,243 @@
+[{
+  "_id": {
+    "$oid": "6aafd51f13a6f40ea24ae856"
+  },
+  "email": "attendee.1789908254@example.com",
+  "passwordHash": "$2b$12$tqWB7DBhpSZxHegU.CvvGemsavODfGMViP70q4wS4P/DTVSYpPh5W",
+  "role": "attendee",
+  "displayName": "Test Attendee",
+  "status": "unverified",
+  "emailVerifiedAt": null,
+  "emailVerifyTokenHash": "1e48ef167c104f65a21f79f056ce8aa62099bf323dc9484c56ad2bb6bc9051e8",
+  "emailVerifyExpiresAt": {
+    "$date": "2026-09-21T12:44:15.062Z"
+  },
+  "passwordResetTokenHash": null,
+  "passwordResetExpiresAt": null,
+  "refreshTokenHash": "d508882d254502ba3541a7a65af5a8ce740e444742c157a381ff94da33f0de76",
+  "createdAt": {
+    "$date": "2026-09-20T12:44:15.075Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T12:44:15.094Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafd51f13a6f40ea24ae85e"
+  },
+  "email": "exhibitor.1789908255@example.com",
+  "passwordHash": "$2b$12$ZPNBmt2FhaIjJ0vWVgBtbuV.oYLKjy8KH.7WJA3lNSjbXr6/XCZv6",
+  "role": "exhibitor",
+  "displayName": "Booth Co",
+  "status": "unverified",
+  "emailVerifiedAt": null,
+  "emailVerifyTokenHash": "3859e40b0380250b1e54ccf43b31a9a16cccfddc05546390e9b4030946a99182",
+  "emailVerifyExpiresAt": {
+    "$date": "2026-09-21T12:44:15.700Z"
+  },
+  "passwordResetTokenHash": null,
+  "passwordResetExpiresAt": null,
+  "refreshTokenHash": "ac3ebc6851878f856c44439a3fee051a30b32aeadefdf517202cc472c66cd4cc",
+  "createdAt": {
+    "$date": "2026-09-20T12:44:15.702Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T12:44:15.708Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafd52115849c6f8532b224"
+  },
+  "email": "admin@eventsphere.local",
+  "passwordHash": "$2b$12$1P.fcIXp3GHh42W2RP9JYeFkh.KwPVh9JS2OUHJKveAtYWN.xfrrC",
+  "role": "admin",
+  "displayName": "EventSphere Admin",
+  "status": "active",
+  "emailVerifiedAt": {
+    "$date": "2026-09-20T12:44:17.607Z"
+  },
+  "emailVerifyTokenHash": null,
+  "emailVerifyExpiresAt": null,
+  "passwordResetTokenHash": null,
+  "passwordResetExpiresAt": null,
+  "refreshTokenHash": "a9b34d20f51e3c7b35446d344ccaab45141bc3f4ab05b8b79dab885e94cfc4cc",
+  "createdAt": {
+    "$date": "2026-09-20T12:44:17.618Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T12:44:18.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafd8e3bc1cb1b36932aee2"
+  },
+  "email": "webd2276@gmail.com",
+  "passwordHash": "$2b$12$f7TTC8bpn0dHm0PJbzqT1uRBmljdrvDuwdY8DS38lVhRjYxptnP82",
+  "role": "attendee",
+  "displayName": "Hamza Qadeer",
+  "status": "unverified",
+  "emailVerifiedAt": null,
+  "emailVerifyTokenHash": "0b9ea91f8374293409293cff2f930e3d0958ae8c5cd1aceb3f9313daeb394bd4",
+  "emailVerifyExpiresAt": {
+    "$date": "2026-09-21T13:00:19.771Z"
+  },
+  "passwordResetTokenHash": null,
+  "passwordResetExpiresAt": null,
+  "createdAt": {
+    "$date": "2026-09-20T13:00:19.782Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T13:32:25.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6aafd907bc1cb1b36932aeea"
+  },
+  "email": "digitalwaves284@gmail.com",
+  "passwordHash": "$2b$12$87dpvYJtcnvwlHQ2.mh5AuZWraTjt0Y/wM1oAzU5p3UlVQsx4utwy",
+  "role": "exhibitor",
+  "displayName": "ali",
+  "status": "unverified",
+  "emailVerifiedAt": null,
+  "emailVerifyTokenHash": "4cb59a535027faa5fdbfae149ed0351e79ab58cb4095982c7e934b0b5e1123c0",
+  "emailVerifyExpiresAt": {
+    "$date": "2026-09-21T13:00:55.094Z"
+  },
+  "passwordResetTokenHash": null,
+  "passwordResetExpiresAt": null,
+  "refreshTokenHash": "47b6c4a47a78fcf9d583db8e0c41d6fe3f0abb6dcae68010cc9d7224272d31e5",
+  "createdAt": {
+    "$date": "2026-09-20T13:00:55.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T13:58:08.646Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab0440f4f7a0aeb74d12843"
+  },
+  "name": "akram",
+  "email": "jihasoc960@dreameg.com",
+  "password": "$2b$12$xwrTNdCGvcEncHFnOg16RuLdS7.bGKVkrOxLg9JLNIq0VsuPRAUiW",
+  "role": "user",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2026-09-20T20:37:35.274Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T20:37:35.274Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab0458f9f97f19c647e1e0d"
+  },
+  "name": "anas",
+  "email": "mawev91631@airychen.com",
+  "password": "$2b$12$dY6NHNta2thAEd7jtcN3Ked5cEK8a3utGqk2PDBt9OYb/WuGpFMTu",
+  "role": "user",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2026-09-20T20:43:59.683Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T20:43:59.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab04d677732d37294cf211e"
+  },
+  "name": "zubair",
+  "email": "caxelic551@findize.com",
+  "password": "$2b$12$yj9DKn0/pAS7Ko1qVTBZVOewpIElV35BZ1qRSOrHE1m2on5GMdO6a",
+  "role": "user",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2026-09-20T21:17:27.337Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-20T21:17:27.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab0aeadfd4946f990500d18"
+  },
+  "name": "wahab",
+  "email": "xoneloh531@findize.com",
+  "password": "$2b$12$z2vPz3F0CEEybEh88PPM3uVd2Em1ZZ9B7IpDdOVWrnli8IS8KeOjW",
+  "role": "user",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2026-09-21T04:12:29.831Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T04:12:29.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab0d13d176dde93d331527e"
+  },
+  "name": "Zain",
+  "email": "rayanel657@hideam.com",
+  "password": "$2b$12$FmPZ7OO517YxErtP4Ma/o..OOmOKaZXQDLULaThhHosYf.0dExqwK",
+  "role": "user",
+  "isVerified": false,
+  "createdAt": {
+    "$date": "2026-09-21T06:39:57.742Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T06:39:57.742Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab0d68fc9cb49f39d8764b6"
+  },
+  "name": "Zain",
+  "email": "gayeb92309@duidir.com",
+  "password": "$2b$12$DC0m5RHvy3qmtYoaOAF/C.NBjMr1Vs7P0vA0M.t1lhMz2UkGvT1Ki",
+  "role": "user",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2026-09-21T07:02:39.745Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T07:17:11.347Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6ab0d783c9cb49f39d8764b7"
+  },
+  "name": "Zain",
+  "email": "fosid11164@airychen.com",
+  "password": "$2b$12$/4UteukWCUeZfDxGvb/MWu1WsWfYcaQRCWzGj1FLLFPXMxVAjXlNK",
+  "role": "organizer",
+  "isVerified": true,
+  "createdAt": {
+    "$date": "2026-09-21T07:06:43.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-09-21T07:24:00.179Z"
+  },
+  "__v": 0
+}]

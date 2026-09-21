@@ -1,0 +1,7 @@
+{
+  "name": "event-sphere",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix EventSphere-Event-Management-Backend start & npm --prefix EventSphere-Frontend start"
+  }
+}
